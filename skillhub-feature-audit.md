@@ -202,28 +202,7 @@ skillhub install frontend-design --agent claude
 
 ---
 
-## 七、定價方案
-
-- 多層次訂閱方案
-- Credits 型計費，永不過期
-- 高階方案提升 API Rate Limit（100 req/min）
-- Playground 每日免費額度
-
----
-
-## 八、企業 / Self-hosted 功能
-
-- Docker / Kubernetes 部署
-- RBAC 存取控制
-- Team Namespace 管理
-- Audit Log（審計日誌）
-- API Token 管理
-- 自有基礎設施部署（防火牆後端）
-- 資料主權（Data Sovereignty）保障
-
----
-
-## 九、技能發布 / 創作者生態
+## 七、技能發布 / 創作者生態
 
 - 技能以 `SKILL.md` 格式撰寫（instructions + metadata）
 - 透過 CLI `publish` 命令公開上架
@@ -233,7 +212,7 @@ skillhub install frontend-design --agent claude
 
 ---
 
-## 十、輔助頁面與社群
+## 八、輔助頁面與社群
 
 - Skills Guide（5 分鐘快速教學）
 - API Documentation（完整 API 參考）
